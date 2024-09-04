@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wesleyanding
 - 👀 I’m interested in learning to program better, becoming more efficient in my programming, and landing a developer job in the future
-- 🎓 Currently a student at Oregon State University-Cascades working towards a Bachelors in Computer Science. 
+- 🎓 Completed a Bachelors in Computer Science at Oregon State University-Cascades. 
 - 🌱 I’m currently learning everyday something new.
 - 💞️ I’m looking to collaborate on programming projects that can increase my experience.
 - ✅ Completed a Full-Stack Web Development Bootcamp through PDX Code Guild
